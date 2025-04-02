@@ -1,6 +1,6 @@
-package com.core_automation.utils;
+package com.CME.utils;
 
-import com.core_automation.base.BaseTest;
+import com.CME.base.BaseTest;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
@@ -9,7 +9,7 @@ import org.testng.Assert;
 import java.io.File;
 import java.io.IOException;
 
-import static com.core_automation.utils.ExtentManager.logInfo;
+import static com.CME.utils.ExtentManager.logInfo;
 
 public class Common extends BaseTest {
 

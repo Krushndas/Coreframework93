@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.parmarkeyur084</groupId>
-    <artifactId>coreframework</artifactId>
+    <artifactId>In-HouseCME</artifactId>
     <version>1.0.14-SNAPSHOT</version>
 
     <distributionManagement>

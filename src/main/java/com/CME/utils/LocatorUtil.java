@@ -1,6 +1,6 @@
-package com.core_automation.utils;
+package com.CME.utils;
 
-import com.core_automation.base.BaseTest;
+import com.CME.base.BaseTest;
 import io.appium.java_client.AppiumBy;
 import org.openqa.selenium.By;
 

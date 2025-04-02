@@ -1,11 +1,11 @@
-package com.core_automation.utils;
+package com.CME.utils;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import lombok.Getter;
 
-import static com.core_automation.base.BaseTest.fs;
+import static com.CME.base.BaseTest.fs;
 
 public class ReportManager {
     private static ExtentReports extent;

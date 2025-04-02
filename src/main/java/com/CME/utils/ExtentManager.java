@@ -1,4 +1,4 @@
-package com.core_automation.utils;
+package com.CME.utils;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
@@ -6,7 +6,7 @@ import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import static com.core_automation.base.BaseTest.timestamp;
+import static com.CME.base.BaseTest.timestamp;
 
 public class ExtentManager {
 

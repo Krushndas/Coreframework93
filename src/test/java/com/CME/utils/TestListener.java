@@ -1,6 +1,6 @@
-package com.core_automation.utils;
+package com.CME.utils;
 
-import com.core_automation.base.BaseTest;
+import com.CME.base.BaseTest;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;

@@ -3,7 +3,7 @@
 <suite name="Suite" parallel="tests">
     <test name="Test 1">
         <classes>
-            <class name="com.core_automation.test.test"/>
+            <class name="com.CME.test.test"/>
         </classes>
     </test>
 </suite>

@@ -1,4 +1,4 @@
-package com.core_automation.config;
+package com.CME.config;
 
 import org.yaml.snakeyaml.Yaml;
 

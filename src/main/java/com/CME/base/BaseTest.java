@@ -1,6 +1,6 @@
-package com.core_automation.base;
+package com.CME.base;
 
-import com.core_automation.config.ServerManager;
+import com.CME.config.ServerManager;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.options.UiAutomator2Options;
@@ -96,5 +96,9 @@ public class BaseTest {
                 serverManager.getServer().stop();
             }
         }
+    }
+
+    public static void setUp(String web, String s, boolean b) {
+
     }
 }

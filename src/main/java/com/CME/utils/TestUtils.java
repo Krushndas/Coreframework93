@@ -1,6 +1,6 @@
-package com.core_automation.utils;
+package com.CME.utils;
 
-import com.core_automation.base.BaseTest;
+import com.CME.base.BaseTest;
 import io.appium.java_client.AppiumDriver;
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.PointerInput;
@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.Select;
 
 import java.util.List;
 
-import static com.core_automation.utils.ExtentManager.logInfo;
+import static com.CME.utils.ExtentManager.logInfo;
 import static java.time.Duration.ofMillis;
 import static java.util.Collections.singletonList;
 

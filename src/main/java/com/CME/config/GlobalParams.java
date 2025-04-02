@@ -1,4 +1,4 @@
-package com.core_automation.config;
+package com.CME.config;
 
 public class GlobalParams {
     private static final ThreadLocal<String> platformName = new ThreadLocal<String>();
