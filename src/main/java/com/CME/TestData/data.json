@@ -1,0 +1,11 @@
+{
+  "app": {
+    "url": "https://in-house-testing.tekark.com/site-admin/login"
+  },
+  "users": {
+    "admin": {
+      "username": "techark.testinguser1@gmail.com",
+      "password": "Qwe@1234"
+    }
+  }
+}
