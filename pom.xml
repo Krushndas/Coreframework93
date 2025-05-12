@@ -6,7 +6,7 @@
 
     <groupId>io.github.Krushndas</groupId>
     <artifactId>Coreframework93</artifactId>
-    <version>1.0.14-SNAPSHOT</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <distributionManagement>
         <repository>
