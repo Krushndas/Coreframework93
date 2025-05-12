@@ -6,11 +6,12 @@
 
     <groupId>io.github.Krushndas</groupId>
     <artifactId>Coreframework93</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <distributionManagement>
         <repository>
             <id>github</id>
+                 <name>GitHub Packages</name>
             <url>https://maven.pkg.github.com/Krushndas/Coreframework93</url>
         </repository>
     </distributionManagement>
