@@ -24,7 +24,7 @@
     <scm>
         <connection>scm:git:https://github.com/Krushndas/Coreframework93.git</connection>
         <developerConnection>scm:git:https://github.com/Krushndas/Coreframework93.git</developerConnection>
-        <url>https://github.com/parmarkeyur084/coreframework</url>
+        <url>https://github.com/Krushndas/Coreframework93</url>
     </scm>
 
     <profiles>
