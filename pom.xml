@@ -4,14 +4,14 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.github.parmarkeyur084</groupId>
-    <artifactId>coreframework</artifactId>
+    <groupId>io.github.Krushndas</groupId>
+    <artifactId>Coreframework93</artifactId>
     <version>1.0.14-SNAPSHOT</version>
 
     <distributionManagement>
         <repository>
             <id>github</id>
-            <url>https://maven.pkg.github.com/parmarkeyur084/coreframework</url>
+            <url>https://maven.pkg.github.com/Krushndas/Coreframework93</url>
         </repository>
     </distributionManagement>
 
@@ -22,8 +22,8 @@
     </properties>
 
     <scm>
-        <connection>scm:git:https://github.com/parmarkeyur084/coreframework.git</connection>
-        <developerConnection>scm:git:https://github.com/parmarkeyur084/coreframework.git</developerConnection>
+        <connection>scm:git:https://github.com/Krushndas/Coreframework93.git</connection>
+        <developerConnection>scm:git:https://github.com/Krushndas/Coreframework93.git</developerConnection>
         <url>https://github.com/parmarkeyur084/coreframework</url>
     </scm>
 
